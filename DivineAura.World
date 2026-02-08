@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Aura of God – All Facets of Gold</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body {
+      margin: 0;
+      font-family: "Segoe UI", Arial, sans-serif;
+      background: radial-gradient(circle at top, #2b2200, #000);
+      color: #ffffff;
+      text-align: center;
+    }
+
+    header {
+      padding: 70px 20px;
+    }
+
+    h1 {
+      font-size: 3rem;
+      letter-spacing: 2px;
+      background: linear-gradient(90deg, #ffd700, #ffffff, #ffd700);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      text-shadow: 0 0 25px gold;
+    }
+
+    header p {
+      max-width: 800px;
+      margin: 20px auto;
+      font-size: 1.2rem;
+      color: #e6e6e6;
+    }
+
+    .statement {
+      margin: 40px auto;
+      max-width: 800px;
+      padding: 30px;
+      border: 1px solid rgba(255,215,0,0.4);
+      border-radius: 15px;
+      box-shadow: 0 0 35px rgba(255,215,0,0.3);
+      color: gold;
+      font-size: 1.3rem;
+    }
+
+    section {
+      padding: 50px 20px;
+    }
+
+    h2 {
+      color: gold;
+      margin-bottom: 30px;
+      letter-spacing: 1px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 25px;
+      max-width: 1200px;
+      margin: auto;
+    }
+
+    .card {
+      background: rgba(255,255,255,0.06);
+      padding: 30px 20px;
+      border-radius: 18px;
+      box-shadow: 0 0 25px rgba(255,215,0,0.25);
+      transition: transform 0.3s, box-shadow 0.3s;
+    }
+
+    .card:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 45px rgba(255,215,0,0.5);
+    }
+
+    .gold-name {
+      font-size: 1.8rem;
+      font-weight: bold;
+      color: gold;
+      text-shadow: 0 0 15px gold;
+      margin-bottom: 10px;
+    }
+
+    footer {
+      padding: 25px;
+      font-size: 0.9rem;
+      color: #aaaaaa;
+      border-top: 1px solid rgba(255,255,255,0.1);
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Aura of God</h1>
+  <p>
+    A complete union of all facets of gold — its names, forms, meanings, containers,
+    and symbols — existing in one divine aura.
+  </p>
+</header>
+
+<div class="statement">
+  Neither priest nor human order — only the Aura of God,
+  where all gold finds its true meaning.
+</div>
+
+<section>
+  <h2>Names of Gold (Symbolic & Universal)</h2>
+  <div class="grid">
+    <div class="card"><div class="gold-name">GOLD</div><p>Purity and value</p></div>
+    <div class="card"><div class="gold-name">AURUM</div><p>The eternal element</p></div>
+    <div class="card"><div class="gold-name">DIVINE LIGHT</div><p>God’s radiance</p></div>
+    <div class="card"><div class="gold-name">SOLAR METAL</div><p>Power of the sun</p></div>
+    <div class="card"><div class="gold-name">HOLY ESSENCE</div><p>Sacred presence</p></div>
+    <div class="card"><div class="gold-name">ETERNITY</div><p>Timeless truth</p></div>
+  </div>
+</section>
+
+<section>
+  <h2>Facets of Gold</h2>
+  <div class="grid">
+    <div class="card"><div class="gold-name">Material</div><p>Metal, wealth, form</p></div>
+    <div class="card"><div class="gold-name">Spiritual</div><p>Faith and divinity</p></div>
+    <div class="card"><div class="gold-name">Mental</div><p>Wisdom and clarity</p></div>
+    <div class="card"><div class="gold-name">Moral</div><p>Truth and integrity</p></div>
+    <div class="card"><div class="gold-name">Universal</div><p>Cosmic balance</p></div>
+    <div class="card"><div class="gold-name">Human Goal</div><p>Success and purpose</p></div>
+  </div>
+</section>
+
+<section>
+  <h2>Forms & Containers of Gold</h2>
+  <div class="grid">
+    <div class="card"><div class="gold-name">Coin</div><p>Exchange & trust</p></div>
+    <div class="card"><div class="gold-name">Bar</div><p>Stored power</p></div>
+    <div class="card"><div class="gold-name">Crown</div><p>Authority</p></div>
+    <div class="card"><div class="gold-name">Temple</div><p>Sacred container</p></div>
+    <div class="card"><div class="gold-name">Word</div><p>Golden truth</p></div>
+    <div class="card"><div class="gold-name">Soul</div><p>Pure inner gold</p></div>
+  </div>
+</section>
+
+<footer>
+  © 2026 Aura of God • All Gold • All Forms • One Divine Aura
+</footer>
+
+</body>
+</html>
